@@ -1,5 +1,4 @@
 # ubuntu-on-huawei-MatebookXpro2019
-# Linux on Huawei MateBook 13 (2019)
 
 > Brain dump: MateBook 13 (Wright-W19) running Debian heavily inspired by [lidel's documentation of running Linux on MateBook X](https://github.com/lidel/linux-on-huawei-matebook-x-2017).
 
